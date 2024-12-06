@@ -139,7 +139,7 @@ function App() {
                 <h2>Class List</h2>
                 {classList.map((element) => (
                     <ul key={element.id}>
-                        <li>
+                        <li style={{'listStyle': 'none'}}>
                             <div>Day: {element.id}</div>
                             <div>Class1: {element.class1 ? "true" : "false"}</div>
                             <div>Class2: {element.class2 ? "true" : "false"}</div>
@@ -153,8 +153,9 @@ function App() {
             </div>
 
             <div>
-                <button onClick={handleAddStudents}>Add Students</button>
-                <button onClick={handleAddClass}>Add Classes</button>
+                {/* <button onClick={handleAddStudents}>Add Students</button>
+                <button onClick={handleAddClass}>Add Classes</button> */}
+                <h2>Filter the List</h2>
                 <button onClick={() => filteredList("monday")}>monday</button>
                 <button onClick={() => filteredList("tuesday")}>tuesday</button>
                 <button onClick={() => filteredList("wednesday")}>wednesday</button>
