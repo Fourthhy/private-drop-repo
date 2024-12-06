@@ -1,0 +1,56 @@
+[
+    {
+      "day": "monday",
+      "class1": true,
+      "class2": true,
+      "class3": true,
+      "class4": true,
+      "class5": false,
+      "class6": false
+    },
+    {
+      "day": "tuesday",
+      "class1": true,
+      "class2": false,
+      "class3": true,
+      "class4": true,
+      "class5": true,
+      "class6": false
+    },
+    {
+      "day": "wednesday",
+      "class1": false,
+      "class2": true,
+      "class3": true,
+      "class4": true,
+      "class5": false,
+      "class6": true
+    },
+    {
+      "day": "thursday",
+      "class1": true,
+      "class2": true,
+      "class3": false,
+      "class4": false,
+      "class5": true,
+      "class6": true
+    },
+    {
+      "day": "friday",
+      "class1": false,
+      "class2": true,
+      "class3": true,
+      "class4": true,
+      "class5": true,
+      "class6": false
+    },
+    {
+      "day": "saturday",
+      "class1": true,
+      "class2": true,
+      "class3": false,
+      "class4": true,
+      "class5": true,
+      "class6": false
+    }
+  ]

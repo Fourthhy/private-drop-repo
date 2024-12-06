@@ -1,0 +1,363 @@
+[
+    {
+        "name": "Fox Chandra",
+        "LvID": "24-001",
+        "course": "class1",
+        "unclaimed": true
+    },  
+    {
+        "name": "Romulus 'Azazyahu",
+        "LvID": "24-002",
+        "course": "class1",
+        "unclaimed": true
+    },
+    {
+        "name": "Silvanus Yuri",
+        "LvID": "24-003",
+        "course": "class1",
+        "unclaimed": true
+    },
+    {
+        "name": "Hrólfr Rheie",
+        "LvID": "24-004",
+        "course": "class1",
+        "unclaimed": true
+    },
+    {
+        "name": "Pratap Kunal",
+        "LvID": "24-005",
+        "course": "class1",
+        "unclaimed": true
+    },
+    {
+        "name": "Ruth Merlin",
+        "LvID": "24-006",
+        "course": "class1",
+        "unclaimed": true
+    },
+    {
+        "name": "Thabani Cosme",
+        "LvID": "24-007",
+        "course": "class1",
+        "unclaimed": true
+    },
+    {
+        "name": "Chucho Baldur",
+        "LvID": "24-008",
+        "course": "class1",
+        "unclaimed": true
+    },
+    {
+        "name": "Rosa Elliot",
+        "LvID": "24-009",
+        "course": "class1",
+        "unclaimed": true
+    },
+    {
+        "name": "Clarissa Tsubaki",
+        "LvID": "24-010",
+        "course": "class1",
+        "unclaimed": true
+    },
+    {
+        "name": "Arjan Jeshua",
+        "LvID": "24-011",
+        "course": "class2",
+        "unclaimed": true
+    },
+    {
+        "name": "Thanina Vere",
+        "LvID": "24-012",
+        "course": "class2",
+        "unclaimed": true
+    },
+    {
+        "name": "Purnima Kallinikos",
+        "LvID": "24-013",
+        "course": "class2",
+        "unclaimed": true
+    },
+    {
+        "name": "Neelima Roimata",
+        "LvID": "24-014",
+        "course": "class2",
+        "unclaimed": true
+    },
+    {
+        "name": "Sandro Abessalom",
+        "LvID": "24-015",
+        "course": "class2",
+        "unclaimed": true
+    },
+    {
+        "name": "Abd al-Qadir Hermione",
+        "LvID": "24-016",
+        "course": "class2",
+        "unclaimed": true
+    },
+    {
+        "name": "Arabella Astraea",
+        "LvID": "24-017",
+        "course": "class2",
+        "unclaimed": true
+    },
+    {
+        "name": "Alojz Hajar",
+        "LvID": "24-018",
+        "course": "class2",
+        "unclaimed": true
+    },
+    {
+        "name": "Vaughan Rodger",
+        "LvID": "24-019",
+        "course": "class2",
+        "unclaimed": true
+    },
+    {
+        "name": "Tryphon Henriette",
+        "LvID": "24-020",
+        "course": "class2",
+        "unclaimed": true
+    },
+    {
+        "name": "Ulfilas Hedviga",
+        "LvID": "24-021",
+        "course": "class3",
+        "unclaimed": true
+    },
+    {
+        "name": "Xasan Matilda",
+        "LvID": "24-022",
+        "course": "class3",
+        "unclaimed": true
+    },
+    {
+        "name": "Domitia Ha-Yoon",
+        "LvID": "24-023",
+        "course": "class3",
+        "unclaimed": true
+    },
+    {
+        "name": "Yasemin Toninho",
+        "LvID": "24-024",
+        "course": "class3",
+        "unclaimed": true
+    },
+    {
+        "name": "Ask Harish",
+        "LvID": "24-025",
+        "course": "class3",
+        "unclaimed": true
+    },
+    {
+        "name": "Mathys John",
+        "LvID": "24-026",
+        "course": "class3",
+        "unclaimed": true
+    },
+    {
+        "name": "Mehrdad Nastia",
+        "LvID": "24-027",
+        "course": "class3",
+        "unclaimed": true
+    },
+    {
+        "name": "Benedicta Edward",
+        "LvID": "24-028",
+        "course": "class3",
+        "unclaimed": true
+    },
+    {
+        "name": "Sree Shylock",
+        "LvID": "24-029",
+        "course": "class3",
+        "unclaimed": true
+    },
+    {
+        "name": "Remei Garance",
+        "LvID": "24-030",
+        "course": "class3",
+        "unclaimed": true
+    },
+    {
+        "name": "Karl Cirillo",
+        "LvID": "24-031",
+        "course": "class4",
+        "unclaimed": true
+    },
+    {
+        "name": "Patryk Nina",
+        "LvID": "24-032",
+        "course": "class4",
+        "unclaimed": true
+    },
+    {
+        "name": "Yudes Hávarðr",
+        "LvID": "24-033",
+        "course": "class4",
+        "unclaimed": true
+    },
+    {
+        "name": "Eva Tiger",
+        "LvID": "24-034",
+        "course": "class4",
+        "unclaimed": true
+    },
+    {
+        "name": "Claudine Miryam",
+        "LvID": "24-035",
+        "course": "class4",
+        "unclaimed": true
+    },
+    {
+        "name": "Valdimárr Susi",
+        "LvID": "24-036",
+        "course": "class4",
+        "unclaimed": true
+    },
+    {
+        "name": "Ljudevit Rodrigo",
+        "LvID": "24-037",
+        "course": "class4",
+        "unclaimed": true
+    },
+    {
+        "name": "Felicita Emeka",
+        "LvID": "24-038",
+        "course": "class4",
+        "unclaimed": true
+    },
+    {
+        "name": "Fotios Salomè",
+        "LvID": "24-039",
+        "course": "class4",
+        "unclaimed": true
+    },
+    {
+        "name": "Madelaine Tarina",
+        "LvID": "24-040",
+        "course": "class4",
+        "unclaimed": true
+    },
+    {
+        "name": "Gayatri Marietjie",
+        "LvID": "24-041",
+        "course": "class5",
+        "unclaimed": true
+    },
+    {
+        "name": "Pervin Sem",
+        "LvID": "24-042",
+        "course": "class5",
+        "unclaimed": true
+    },
+    {
+        "name": "Angelia Rosaleen",
+        "LvID": "24-043",
+        "course": "class5",
+        "unclaimed": true
+    },
+    {
+        "name": "Owain Yerachme'el",
+        "LvID": "24-044",
+        "course": "class5",
+        "unclaimed": true
+    },
+    {
+        "name": "Bernardino Alexandrie",
+        "LvID": "24-045",
+        "course": "class5",
+        "unclaimed": true
+    },
+    {
+        "name": "Esperança Nuallán",
+        "LvID": "24-046",
+        "course": "class5",
+        "unclaimed": true
+    },
+    {
+        "name": "Éibhear Royse",
+        "LvID": "24-047",
+        "course": "class5",
+        "unclaimed": true
+    },
+    {
+        "name": "Rostislav María Carmen",
+        "LvID": "24-048",
+        "course": "class5",
+        "unclaimed": true
+    },
+    {
+        "name": "Rosaleen Aras",
+        "LvID": "24-049",
+        "course": "class5",
+        "unclaimed": true
+    },
+    {
+        "name": "Dagr Kende",
+        "LvID": "24-050",
+        "course": "class5",
+        "unclaimed": true
+    },
+    {
+        "name": "Paweł Joseph",
+        "LvID": "24-051",
+        "course": "class6",
+        "unclaimed": true
+    },
+    {
+        "name": "Ada Lazar",
+        "LvID": "24-052",
+        "course": "class6",
+        "unclaimed": true
+    },
+    {
+        "name": "Kodey Ali Asaf",
+        "LvID": "24-053",
+        "course": "class6",
+        "unclaimed": true
+    },
+    {
+        "name": "Svanhildr Anemone",
+        "LvID": "24-054",
+        "course": "class6",
+        "unclaimed": true
+    },
+    {
+        "name": "Ladislav Irma",
+        "LvID": "24-055",
+        "course": "class6",
+        "unclaimed": true
+    },
+    {
+        "name": "Pantheras Svanhild",
+        "LvID": "24-056",
+        "course": "class6",
+        "unclaimed": true
+    },
+    {
+        "name": "Rahul Pravin",
+        "LvID": "24-057",
+        "course": "class6",
+        "unclaimed": true
+    },
+    {
+        "name": "Joosep Xanthippi",
+        "LvID": "24-058",
+        "course": "class6",
+        "unclaimed": true
+    },
+    {
+        "name": "Giò Cateline",
+        "LvID": "24-059",
+        "course": "class6",
+        "unclaimed": true
+    },
+    {
+        "name": "Stefan Everard",
+        "LvID": "24-060",
+        "course": "class6",
+        "unclaimed": true
+    }
+]
+
